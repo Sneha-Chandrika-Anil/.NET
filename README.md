@@ -1,2 +1,2 @@
-# C-program
+# .NET using C#
 .NET framework using C#
